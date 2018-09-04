@@ -108,10 +108,10 @@ static const char *colorname[] = {
  * Default colors (colorname index)
  * foreground, background, cursor, reverse cursor
  */
-unsigned int defaultfg = 12;
-unsigned int defaultbg = 8;
-static unsigned int defaultcs = 14;
-static unsigned int defaultrcs = 15;
+unsigned int defaultfg = 11;
+unsigned int defaultbg = 15;
+static unsigned int defaultcs = 10;
+static unsigned int defaultrcs = 8;
 
 /*
  * Default shape of cursor
